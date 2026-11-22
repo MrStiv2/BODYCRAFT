@@ -6,7 +6,7 @@ Install the Windows or macOS launcher from [Releases](https://github.com/MrStiv2
 
 ## Download
 
-[BODYCRAFT 1.3.41 modpack ZIP](https://github.com/MrStiv2/BODYCRAFT/releases/download/v1.3.41/BodyCraft-1.3.41-NeoForge-1.21.1.zip) for Minecraft 1.21.1, NeoForge 21.1.267, and Java 21. See the [release notes](https://github.com/MrStiv2/BODYCRAFT/releases/tag/v1.3.41) for the reload animation changes.
+[BODYCRAFT 1.3.42 modpack ZIP](https://github.com/MrStiv2/BODYCRAFT/releases/download/v1.3.42/BodyCraft-1.3.42-NeoForge-1.21.1.zip) for Minecraft 1.21.1, NeoForge 21.1.267, and Java 21. See the [release notes](https://github.com/MrStiv2/BODYCRAFT/releases/tag/v1.3.42) for the reload animation hotfix.
 
 ## Updates
 
