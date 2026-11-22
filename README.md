@@ -6,4 +6,6 @@ Install the Windows or macOS launcher from [Releases](https://github.com/MrStiv2
 
 ## Updates
 
+Use BODYCRAFT Launcher 1.3.22 or newer for self-updates. Keep the same Windows executable or macOS app. The launcher downloads its updates while open and activates them the next time it starts. Game updates are available through the Updates button.
+
 The launcher checks the [BODYCRAFT update manifest](https://github.com/MrStiv2/BODYCRAFT/releases/latest/download/bodycraft-update.json) at startup. The same address can be entered in the Updates menu. Close the BODYCRAFT Minecraft instance before installing an update.
