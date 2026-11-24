@@ -15,7 +15,7 @@
 
 <p align="center">
   <sub>One click downloads the launcher. It installs BODYCRAFT, keeps it updated and opens Minecraft with the BODYCRAFT profile selected.<br>
-  Minecraft 1.21.1 · NeoForge 21.1.267 · <a href="https://github.com/MrStiv2/BODYCRAFT/releases">All releases and changelogs</a></sub>
+  Minecraft 1.21.1 · NeoForge 21.1.267 · <a href="https://github.com/MrStiv2/BODYCRAFT/releases">All releases and changelogs</a> · <a href="#support-the-project">Support the project</a></sub>
 </p>
 
 <br>
@@ -98,6 +98,32 @@ You need Minecraft Java Edition with the official Minecraft Launcher and an inte
 The launcher checks for new versions while it is open and once an hour while it is closed, and sends a system notification when a new BODYCRAFT version comes out. Updates keep your worlds, extra mods, controls and memory setting. The launcher updates itself as well.
 
 Older launchers (1.3.22 or newer) offer Launcher 2 by themselves after their next restart. Release notes for every version are on the [Releases](https://github.com/MrStiv2/BODYCRAFT/releases) page and in the launcher's **Changelogs**.
+
+## Support the project
+
+BODYCRAFT is free, and it stays free. If you enjoy it and want to help its development, you can send a tip in USDT. It is entirely optional.
+
+<table>
+  <tr>
+    <td align="center" width="50%"><img src="docs/media/support-usdt-trc20.png" alt="QR code of the USDT address in the TRC20 network" width="180"><br><b>USDT · TRC20 (Tron)</b></td>
+    <td align="center" width="50%"><img src="docs/media/support-usdt-bep20.png" alt="QR code of the USDT address in the BEP20 network" width="180"><br><b>USDT · BEP20 (BNB Smart Chain)</b></td>
+  </tr>
+</table>
+
+**USDT · TRC20 (Tron)**
+
+```
+TPSXMXp1rAQkkVcXEHbx2pxsFKmYYA3coN
+```
+
+**USDT · BEP20 (BNB Smart Chain)**
+
+```
+0xffa8b5b1b6dd98e12ae07ae7f1242210d8acd58f
+```
+
+> [!WARNING]
+> Send only USDT, and only in the network named above its address. Funds sent in another network, such as Ethereum (ERC20), can be lost.
 
 <details>
 <summary><b>Manual install without the launcher</b></summary>
