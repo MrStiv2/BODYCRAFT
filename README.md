@@ -129,6 +129,10 @@ TPSXMXp1rAQkkVcXEHbx2pxsFKmYYA3coN
 > [!WARNING]
 > Send only USDT, and only in the network named above its address. Funds sent in another network, such as Ethereum (ERC20), can be lost.
 
+## Contact
+
+Questions, bug reports and collaborations: [bodycraft.project@gmail.com](mailto:bodycraft.project@gmail.com)
+
 <details>
 <summary><b>Manual install without the launcher</b></summary>
 
