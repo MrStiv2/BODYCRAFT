@@ -14,8 +14,12 @@
 </p>
 
 <p align="center">
+  <a href="#support-the-project"><img src="docs/media/support.png" alt="Support BODYCRAFT" width="400"></a>
+</p>
+
+<p align="center">
   <sub>One click downloads the launcher. It installs BODYCRAFT, keeps it updated and opens Minecraft with the BODYCRAFT profile selected.<br>
-  Minecraft 1.21.1 · NeoForge 21.1.267 · <a href="https://github.com/MrStiv2/BODYCRAFT/releases">All releases and changelogs</a> · <a href="#support-the-project">Support the project</a></sub>
+  Minecraft 1.21.1 · NeoForge 21.1.267 · <a href="https://github.com/MrStiv2/BODYCRAFT/releases">All releases and changelogs</a></sub>
 </p>
 
 <br>
